@@ -1,8 +1,8 @@
 # mef_consulta
 Scrapping codes: Consulta Amigable Mensual (MEF).
 
-Co-authored-by: Cindy Rojas <cindyrojasalvarado@gmail.com>
-Co-authored-by: Francisco Guerrero <Fguerrerolopez@udesa.edu.ar>
+Authored-by: Cindy Rojas <cindyrojasalvarado@gmail.com>
+
 
 Steps:
 1) Get the Consulta Amigable website HTML code (imputed later in the Python codes). 
