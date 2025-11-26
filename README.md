@@ -12,4 +12,4 @@ level of public spending by the concept of "Acquisition of Non-Financial Assets"
 
 3) The Stata code cleans up duplicates and consolidates the databases for the local governments of Tumbes, Amazonas, Lambayeque, and Piura departments. 
 
-** If you are interested in getting the Python codes for the remaining departments and government levels (national and regional), do not hesitate to contact us.
+** If you are interested in getting the Python codes for the remaining departments and government levels (national and regional), do not hesitate to contact me.
